@@ -1,12 +1,12 @@
-### **IoT Data Generator Application**
+## **IoT Data Generator Application**
 
-## Overview
+### Overview
 
 A comprehensive wxPython desktop application for generating, analyzing, and visualizing artificial IoT sensor data. The application 
 creates realistic user and sensor records with temperature and humidity measurements, providing statistical analysis and interactive 
 visualizations.
 
-## Features
+### Features
 
  1. Data Generation
 - Generate 1,000 user records with: First Name, Last Name, Age, Gender, Username, Address, Email
@@ -38,7 +38,7 @@ visualizations.
 - Save Plots: Export plots as PNG, PDF, or SVG (300 DPI)
 - Interactive Navigation: Arrow keys and Page Up/Down for scrolling zoomed plots
 
-## Requirements
+### Requirements
 
 Python Packages:
 
