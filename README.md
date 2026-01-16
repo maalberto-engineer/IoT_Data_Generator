@@ -1,6 +1,7 @@
 IoT Data Generator Application
 
 Overview
+
 A comprehensive wxPython desktop application for generating, analyzing, and visualizing artificial IoT sensor data. The application 
 creates realistic user and sensor records with temperature and humidity measurements, providing statistical analysis and interactive 
 visualizations.
